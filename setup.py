@@ -53,7 +53,7 @@ setuptools.setup(
             "pytest-cov==2.12.1",
             "pycodestyle==2.7.0",
             "black==21.8b0",
-            "isort==5.9.3",
+            "isort==5.10.1",
             "mypy==0.910",
             # type stubs for mypy
             "types-backports==0.1.3",
